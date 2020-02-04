@@ -31,8 +31,6 @@ p {
 
 
 
-
-
 /* HAMBURGER RESPONSIVE NAVIGATION MENU */
 /* [ON BIG SCREEN] */
 /* navContainer */
@@ -101,3 +99,33 @@ p {
     display: block;
   }
 }
+
+
+
+
+/*Mobile Screen*/
+@media only screen and (max-width: 480px) {
+
+}
+
+
+
+
+/*iPad*/
+@media only screen and (max-width: 1030px) {
+
+}
+
+
+
+
+/*iMac Air*/
+@media only screen and (max-width: 2600px) {
+
+}
+
+
+
+
+
+/*Regular Desktop*/
